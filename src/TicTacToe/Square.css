@@ -1,0 +1,12 @@
+.square{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    
+    
+}
+.square h1{
+    margin:auto ;
+}

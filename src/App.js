@@ -1,9 +1,11 @@
 import React from 'react'
+import Bord from './TicTacToe/Bord'
 
 function App() {
   return (
     <div>
-      <h1>Hello, Jay!</h1>
+        <Bord />
+      
     </div>
   )
 }
